@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rishi\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rishi\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_SubnauticaSpeed.-983280103.00" t="ExcludeRecursive" />
+    <e p="D:\Users\rishi\Documents\Programming\BIG_PROJECTS\SubnauticaSpeed" t="IncludeRecursive">
+      <e p="AerogelFins.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="MainPatcher.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PlayerPatcher.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="SubnauticaSpeed.csproj" t="IncludeRecursive" />
+      <e p="SubnauticaSpeed.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
