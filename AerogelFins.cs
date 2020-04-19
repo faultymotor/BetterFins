@@ -18,12 +18,7 @@ namespace SubnauticaSpeed
         public override TechGroup GroupForPDA { get; } = TechGroup.Personal;
         public override TechCategory CategoryForPDA { get; } = TechCategory.Equipment;
         public override EquipmentType EquipmentType { get; } = EquipmentType.Foots;
-
-        public override string AssetsFolder
-        {
-            get;
-        } = "SubnauticaSpeed/Assets/AerogelFins";
-
+        
         public override string[] StepsToFabricatorTab
         {
             get;
@@ -53,6 +48,11 @@ namespace SubnauticaSpeed
         public static void _SMLPatchHelper()
         {
             Main.Patch();
+        }
+
+        public static TechType _GetTechType()
+        {
+            return Main.TechType;
         }
     }
 }

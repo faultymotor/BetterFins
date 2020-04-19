@@ -55,7 +55,7 @@
     <ItemGroup>
         <Compile Include="AerogelFins.cs" />
         <Compile Include="MainPatcher.cs" />
-        <Compile Include="PlayerPatcher.cs" />
+        <Compile Include="UnderwaterMotorPatcher.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
