@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnauticaSpeed", "SubnauticaSpeed.csproj", "{29BCD06A-F5CC-4D2A-AEC4-CFBECE0514FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Betterfins", "BetterFins.csproj", "{29BCD06A-F5CC-4D2A-AEC4-CFBECE0514FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

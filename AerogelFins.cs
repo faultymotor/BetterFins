@@ -2,7 +2,7 @@
 using SMLHelper.V2.Crafting;
 using UnityEngine;
 
-namespace SubnauticaSpeed 
+namespace BetterFins 
 {
     public class AerogelFins : Equipable 
     {
