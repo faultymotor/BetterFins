@@ -8,6 +8,7 @@ namespace BetterFins
         public static void Patch()
         {
             AerogelFins._SMLPatchHelper();
+            
             var harmony = HarmonyInstance.Create("io.github.brokenmotor.betterfins");
             harmony.PatchAll(Assembly.GetExecutingAssembly());
         }
