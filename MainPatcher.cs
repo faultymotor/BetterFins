@@ -8,7 +8,7 @@ namespace SubnauticaSpeed
         public static void Patch()
         {
             AerogelFins._SMLPatchHelper();
-            var harmony = HarmonyInstance.Create("io.github.vayelcrau.subnauticaspeed");
+            var harmony = HarmonyInstance.Create("io.github.brokenmotor.subnauticaspeed");
             harmony.PatchAll(Assembly.GetExecutingAssembly());
         }
     }
